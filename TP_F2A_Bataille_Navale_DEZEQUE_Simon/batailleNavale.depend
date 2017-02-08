@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1486587109 source:c:\users\simon\desktop\bataillenavale\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1486588058 source:c:\users\simon\desktop\tp_f2a_bataille_navale_dezeque_simon\main.c
+	<stdio.h>
+	<stdlib.h>
+
